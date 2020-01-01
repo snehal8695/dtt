@@ -1,0 +1,42 @@
+fieldset{
+	background:#B8B366;
+	border:solid 1px #DAEBA8;
+	box-shadow:0 0 10px #404040;
+	-webkit-border-radius:8px;
+	-moz-border-radius:8px;
+	border-radius:8px;
+	padding:6px;
+	align:"center";
+}
+
+legend.legend_border
+{
+	background:#5d8989;
+	-webkit-border-radius:8px;
+	-moz-border-radius:8px;
+	box-shadow:0 0 10px #404040;
+	border-radius:8px;
+	display:block;
+	padding-left:10px;
+	padding-right:0px;
+	color:white;
+}
+
+select{
+    width: 200px;
+    line-height: inherit;
+    padding: 8px;
+}
+.abc{
+	width: 200px;
+	margin-left:0px;
+}
+th
+{
+	background-color:#a4c1c1;
+}
+td
+{
+	background-color:#d1e0e0;
+}
+
